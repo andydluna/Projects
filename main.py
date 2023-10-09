@@ -1,1 +1,1 @@
-import binarySearch
+import quiz
