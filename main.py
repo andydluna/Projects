@@ -1,1 +1,1 @@
-import wordReplacer
+import calculator
