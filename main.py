@@ -1,1 +1,1 @@
-import calculator
+import emailSlicer
