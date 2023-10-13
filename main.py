@@ -1,1 +1,1 @@
-import passwordGen
+import diceSimulator
