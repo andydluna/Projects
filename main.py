@@ -1,1 +1,1 @@
-import diceSimulator
+import connectionChecker
