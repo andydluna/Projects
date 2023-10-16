@@ -1,1 +1,1 @@
-import wordDictionary
+import rockPaperScissors
