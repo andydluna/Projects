@@ -1,1 +1,1 @@
-import leapYear
+import wordDictionary
