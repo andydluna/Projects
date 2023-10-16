@@ -1,1 +1,1 @@
-import connectionChecker
+import currencyConverter
