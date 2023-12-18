@@ -10,8 +10,8 @@ def generate_qrcode(text):
 
   qr.add_data(text)
   qr.make(fit=True)
-  img = qr.make_image(fill_color='pink', back_color='white')
-  img.save('qrimage.png')
+  img = qr.make_image(fill_color='black', back_color='white')
+  img.save('data\qrimage.png')
 
 #my twitch channel
 generate_qrcode('https://www.twitch.tv/kiwitoandy')
